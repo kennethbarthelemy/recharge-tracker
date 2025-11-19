@@ -25,8 +25,6 @@ Athletes using Whoop pay $240/year for recovery tracking, but 100M+ people alrea
 
 ## 📊 My Actual Results
 
-![My Recovery Data](my-data-screenshot.png)
-
 Using my own Apple Watch data:
 - Recovery Score: 60% (moderate - HRV down 11% from baseline)
 - Strain: 10.7/21 (within recommended range)
@@ -60,4 +58,5 @@ Using my own Apple Watch data:
 ---
 
 **Live Demo**: https://rechargenow.lovable.app
+
 **Pitch Deck**: https://www.canva.com/design/DAG4y3TgWzA/N8gIX3ixsgL14_MnA6AWGA/edit?utm_content=DAG4y3TgWzA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
