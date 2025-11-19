@@ -53,7 +53,7 @@ Using my own Apple Watch data:
 
 ## 🏆 Built At
 
-[Buildathon Name] - November 2025
+Babson College Buildathon - November 2025
 
 ---
 
