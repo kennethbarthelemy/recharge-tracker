@@ -15,6 +15,7 @@ Athletes using Whoop pay $240/year for recovery tracking, but 100M+ people alrea
 - **Daily Strain Score (0-21)**: Tracks training intensity and calorie burn
 - **Personalized Targets**: Recommends optimal training intensity based on recovery
 - **Real-Time Data**: Uses actual Apple HealthKit data (not mock data)
+- **AI ChatBot**: learns from the data in the app and provides activity based on recovery, strain, and sleep. 
 
 ## 🛠️ Tech Stack
 
